@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/doctrine/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/dealerdirect/phpcodesniffer-composer-installer" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/doctrine/coding-standard" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/composer" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/doctrine/vendor/phpdocumentor/reflection-docblock" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="CUSTOM_LOADER" custom_loader_path="$PROJECT_DIR$/doctrine/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
